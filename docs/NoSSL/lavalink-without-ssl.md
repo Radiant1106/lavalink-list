@@ -140,5 +140,11 @@ Password : alfarimusic
 Secure : false
 ```
 
-
+Hosted by @ [Radiant#1106](https://discord.gg/Cmc3JmXqxP)
+```bash
+Host : game.cyberdev.host
+Port : 27005
+Password : discord.cyberdev.host
+Secure : false
+```
 
